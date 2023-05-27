@@ -103,7 +103,7 @@ Report it! First, remember to **check** if the bug you found is known, or fixed 
   ###### psst you can find me there too! Jux#2213
 
 - **Q: I found a modpack that includes it. Is it official?**  
-Chances are, it's my modpack, [The Cloud Client Experience](https://modrinth.com/the-cloudclient-experience)! No, it's not official, but duplicat gave me permission to upload it to Modrinth, if I followed some conditions (which I did). At the moment, there are no official modpacks.
+Chances are, it's my modpack, [The Cloud Client Experience](https://modrinth.com/modpacks/the-cloud-client-experience)! No, it's not official, but duplicat gave me permission to upload it to Modrinth, if I followed some conditions (which I did). At the moment, there are no official modpacks.
 
   ###### shameless plug, also DUPLICAT MAKE IT OFFICIAL PLEASE I'LL DO ANYTHING
 
