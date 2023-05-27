@@ -9,10 +9,13 @@ This list will get updated as more bugs are discovered.
 
 ## Unsupported features (Not bugs)
 - Can't assign mouse buttons to keybinds in mods
+- UI scaling with the minecraft gui scale (not a bug, but should be changed)
 
 ## Rendering
-- The inventory glitches out when hovering over certain items
-- MotionBlur mod won't work with OptiFine fast rendering enabled
+- When hovering an item in the inventory -> Items get offset, a seemingly random black player or bow model appears under the player
+- Motionblur getting disabled when on fire
+- MotionBlur mod won't work while on fire
+- Font Renderer being unable to render non-latin characters
 
 ## Compatibility
 - Replay Mod + Cloud Client cause Minecraft to crash when trying to play a replay
