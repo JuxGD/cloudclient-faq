@@ -1,0 +1,2 @@
+# Contributing to the FAQ
+If you think there's something missing, or that should be explained, or otherwise should change, please let me know about it on my Discord `Jux#2213`, the Issues section of this repository, or fork the project and make a pull request with the proposed changes.
