@@ -2,7 +2,7 @@
 Unofficial FAQ for Cloud Client, maintained by [JuxGD, AKA replicat](https://github.com/JuxGD).
 
 ## Credits
-[CREDITS.md]https(://github.com/JuxGD/cloudclient-faq/tree/master/CREDITS.md) contains all the credit for stuff currently in this repo.
+[CREDITS.md](https://github.com/JuxGD/cloudclient-faq/tree/master/CREDITS.md) contains all the credit for stuff currently in this repo.
 
 ## Usage
 Link this FAQ to anyone asking a question about Cloud Client and tell them to CTRL+F to search what they're looking for.
